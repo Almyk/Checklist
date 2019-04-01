@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FD370C102251DAC200183A4B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD370C0F2251DAC200183A4B /* AppDelegate.swift */; };
-		FD370C122251DAC200183A4B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD370C112251DAC200183A4B /* ViewController.swift */; };
+		FD370C122251DAC200183A4B /* ChecklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD370C112251DAC200183A4B /* ChecklistViewController.swift */; };
 		FD370C152251DAC200183A4B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD370C132251DAC200183A4B /* Main.storyboard */; };
 		FD370C172251DAC500183A4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD370C162251DAC500183A4B /* Assets.xcassets */; };
 		FD370C1A2251DAC500183A4B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD370C182251DAC500183A4B /* LaunchScreen.storyboard */; };
@@ -18,7 +18,7 @@
 /* Begin PBXFileReference section */
 		FD370C0C2251DAC200183A4B /* Checklist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Checklist.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD370C0F2251DAC200183A4B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FD370C112251DAC200183A4B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FD370C112251DAC200183A4B /* ChecklistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistViewController.swift; sourceTree = "<group>"; };
 		FD370C142251DAC200183A4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FD370C162251DAC500183A4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD370C192251DAC500183A4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 			isa = PBXGroup;
 			children = (
 				FD370C0F2251DAC200183A4B /* AppDelegate.swift */,
-				FD370C112251DAC200183A4B /* ViewController.swift */,
+				FD370C112251DAC200183A4B /* ChecklistViewController.swift */,
 				FD370C132251DAC200183A4B /* Main.storyboard */,
 				FD370C162251DAC500183A4B /* Assets.xcassets */,
 				FD370C182251DAC500183A4B /* LaunchScreen.storyboard */,
@@ -139,7 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FD370C122251DAC200183A4B /* ViewController.swift in Sources */,
+				FD370C122251DAC200183A4B /* ChecklistViewController.swift in Sources */,
 				FD370C102251DAC200183A4B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
